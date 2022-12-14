@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Timofei
 #### I am student programmer
 I am studying in the Biysk Branch of the Altai State University (Russia). Also I'm [speedcuber](https://www.worldcubeassociation.org/persons/2019VIKH01) and showdown (blind sport) referee. 
 
