@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, my name is Arturs
+#### I am student programmer
+I am studying in the Biysk Branch of the Altai State University (Russia). Also I'm [speedcuber](https://www.worldcubeassociation.org/persons/2019VIKH01) and showdown (blind sport) referee. 
 
-<!--
-**TimWCA/TimWCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Kotlin / Python / C# / PHP / HTML / CSS / Pascal
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Russian translation of the WCA Regulations](https://github.com/CubingRF/wca-regulations-translations). 
+- 🌱 I’m currently learning Unity 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TimWCA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/timwca)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/TimWCA)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TimWCA)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimWCA)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimWCA&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/TimWCA)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TimWCA)  
+
+![Profile views](https://gpvc.arturio.dev/TimWCA)  
