@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Timofei
-#### I am student programmer
-I am studying in the Biysk Branch of the Altai State University (Russia). Also I'm [speedcuber](https://www.worldcubeassociation.org/persons/2019VIKH01) and showdown (blind sport) referee. 
+#### I am 1C developer
+I am work in NISSA. Also I'm [speedcuber](https://www.worldcubeassociation.org/persons/2019VIKH01) and showdown (blind sport) referee. 
 
-Skills: Kotlin / Python / C# / PHP / HTML / CSS / Pascal
+Skills: 1C / Kotlin / Python / C# / PHP / HTML / CSS / Pascal
 
 - 🔭 I’m currently working on [Russian translation of the WCA Regulations](https://github.com/CubingRF/wca-regulations-translations). 
 - 🌱 I’m currently learning Unity 
