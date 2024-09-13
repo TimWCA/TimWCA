@@ -16,8 +16,4 @@ Skills: 1C / Kotlin / Python / C# / PHP / HTML / CSS / Pascal
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimWCA&show_icons=true&theme=transparent)  
 
-![GitHub metrics](https://metrics.lecoq.io/TimWCA)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TimWCA)  
-
-![Profile views](https://gpvc.arturio.dev/TimWCA)  
