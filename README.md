@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Timofei
 #### I am 1C developer
-I work in NISSA. Also I'm [speedcuber](https://www.worldcubeassociation.org/persons/2019VIKH01) and showdown (blind sport) referee. 
+I work in Orientir (1С franchisee). Also I'm [speedcuber](https://www.worldcubeassociation.org/persons/2019VIKH01), but I'm not active yet. 
 
 Skills: 1C / Kotlin / Python / C# / PHP / HTML / CSS / Pascal
 
